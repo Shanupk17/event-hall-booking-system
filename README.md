@@ -4,9 +4,17 @@ A full-stack Event Hall Booking System that allows users to register and reserve
 
 ## 🎥 Project Demo
 
-**Screen Recording:** [Watch GatherHall Working Demo](PASTE_YOUR_SCREEN_RECORDING_LINK_HERE)
+Watch the complete working demonstration of GatherHall Event Booking System:
 
-The demo showcases the registration form, date selection, time-slot availability, form validation, and booking functionality.
+▶️ **[Watch Project Demo – GatherHall](https://www.awesomescreenshot.com/video/58567509?key=b67ad64287feaf6d87d6b25d29c26c5e)**
+
+The screen recording demonstrates:
+- Event registration form
+- User detail validation
+- Event date selection
+- Morning, Afternoon, and Night slot selection
+- Booking availability checking
+- Successful registration workflow
 
 ## ✨ Features
 
@@ -159,19 +167,6 @@ The booking records contain:
 - Special Requirements
 - Created At / Updated At timestamps
 
-## 🎥 Project Demo
-
-Watch the complete working demonstration of GatherHall Event Booking System:
-
-▶️ **[Watch Project Demo – GatherHall](https://www.awesomescreenshot.com/video/58567509?key=b67ad64287feaf6d87d6b25d29c26c5e)**
-
-The screen recording demonstrates:
-- Event registration form
-- User detail validation
-- Event date selection
-- Morning, Afternoon, and Night slot selection
-- Booking availability checking
-- Successful registration workflow
 
 ## 🚀 Future Enhancements
 
